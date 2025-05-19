@@ -61,11 +61,5 @@ class Resultado extends StatelessWidget {
         ],
       ),
     );
-    // return Center(
-    //   child: Text(
-    //     "Parabéns!",
-    //     style: TextStyle(fontSize: 28)
-    //     ),
-    // );
   }
 }
